@@ -7,7 +7,8 @@ It is a robotic arm which is made to find only desired object among several obje
 
 ![image](https://github.com/moonjayden/circle-hunt/assets/139466574/867ab801-93b9-493b-988a-bc78097bac88)
 <div align=left>
-[Overall Config]  
+[Overall Config]
+ 
 카메라가 로봇 팔의 가동범위 내에 있는 물체들을 촬영합니다.  촬영한 영상 속 이미지 프레임마다 Opencv로 원형 판별을 하고 해당 원형 물체의 중심 좌표를 라즈베리파이에 전달하게 됩니다. 라즈베리파이에서 각도와 거리 계산을 통한 모터들의 움직일 각을 찾아낸 뒤 각도에 맞게 서보모터를 작동시킵니다. 
 
 [Mechanical Part]  
