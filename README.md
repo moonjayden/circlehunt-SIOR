@@ -37,9 +37,6 @@ Using the raspicam, take a video with the Raspberry Pi camera module and use the
 
 It targets the smoothness when the current frame and the entire frame are the same, and delivers the information of the determined circle.<div align=center>
 ![image](https://github.com/moonjayden/circle-hunt/assets/139466574/79d56f3d-e759-4102-b713-722fb0f89f3d)
-
-<![image](https://github.com/moonjayden/circle-hunt/assets/139466574/4664217a-aad3-43f6-8a36-02cdb4682b30){: width="100" height="100"){: .center}>
-
 ![Raspberrypi2](https://github.com/moonjayden/circle-hunt/assets/139466574/bef41c04-663b-468b-b209-877e9cfdb09a)
 
 <div align=left>
