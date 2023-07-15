@@ -7,7 +7,7 @@ It is a robotic arm which is made to find only desired object among several obje
 
 
  
-###[Overall Config]
+### [Overall Config]
 <div align=center>
 
 ![image](https://github.com/moonjayden/circle-hunt/assets/139466574/867ab801-93b9-493b-988a-bc78097bac88)
