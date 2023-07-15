@@ -43,9 +43,11 @@ It targets the smoothness when the current frame and the entire frame are the sa
 Based on the information of the circle obtained through Opencv, through the above calculation process
  
 <div align=center>
+ 
 ![image](https://github.com/moonjayden/circle-hunt/assets/139466574/498ceaa9-1d85-4c3c-9a9b-bd804cefa63e)
 
 
+<div align=left>
 ### [Video]
 https://www.youtube.com/watch?v=YMNExrljENY&feature=youtu.be
  
