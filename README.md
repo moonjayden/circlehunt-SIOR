@@ -53,5 +53,6 @@ Based on the information of the circle obtained through Opencv, through the abov
 ### [Video]
 https://www.youtube.com/watch?v=YMNExrljENY&feature=youtu.be
 
+[![Video Label](http://img.youtube.com/vi/YMNExrljENY/0.jpg)](https://youtu.be/YMNExrljENY)
  
 
