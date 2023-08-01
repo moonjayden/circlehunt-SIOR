@@ -1,4 +1,4 @@
-![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/dc555d0a-cfc1-4df4-b685-4ae67ee063e7)# circle-hunt
+# circle-hunt
 ### Circle Hunting Robotic Arm Using Image Processing
 
 @SKKU, 2020<div align=center>
@@ -40,16 +40,17 @@ Controls Raspberry Pi w. SSH remote control
 Using the raspicam, take a video with the Raspberry Pi camera module and use the hough circle detection method on the opencv to determine the circle. 
 
 It targets the smoothness when the current frame and the entire frame are the same, and delivers the information of the determined circle.<div align=center>
-![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/136366f7-2e64-414d-b6fe-d2e95ee16588)
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/60005058-27df-40af-a6ba-02cbb579e361)
 
-![Raspberrypi2](https://github.com/moonjayden/circle-hunt/assets/139466574/bef41c04-663b-468b-b209-877e9cfdb09a)
 
 <div align=left>
 Based on the information of the circle obtained through Opencv, through the above calculation process
  
 <div align=center>
  
-![image](https://github.com/moonjayden/circle-hunt/assets/139466574/498ceaa9-1d85-4c3c-9a9b-bd804cefa63e)
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/136366f7-2e64-414d-b6fe-d2e95ee16588)
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/067ffd1f-d3b1-4249-9fd6-242e5b5959bd)
+
 
 
 <div align=left>
