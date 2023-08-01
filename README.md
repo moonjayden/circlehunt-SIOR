@@ -1,8 +1,9 @@
-# circle-hunt
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/dc555d0a-cfc1-4df4-b685-4ae67ee063e7)# circle-hunt
 ### Circle Hunting Robotic Arm Using Image Processing
 
 @SKKU, 2020<div align=center>
-![image](https://github.com/moonjayden/circle-hunt/assets/139466574/0128872d-4027-45ba-8511-dda0e81023a9)
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/15532589-c673-4efe-a4dc-15b6551be17d)
+
 <div align=left>
 It is a robotic arm which is made to find only desired object among several objects and move it to the desired position. Import images of objects from camera module and recognize only circular objects among several objects using Opencv.
 
@@ -10,8 +11,9 @@ It is a robotic arm which is made to find only desired object among several obje
  
 ### [Overall Config]
 <div align=center>
+ 
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/1356f2ec-409f-4422-97a9-0431f7fca2d2)
 
-![image](https://github.com/moonjayden/circle-hunt/assets/139466574/867ab801-93b9-493b-988a-bc78097bac88)
 <div align=left>
 
 Camera  
@@ -26,7 +28,8 @@ Use 6 motors -> 4-DOF
 
 
 ### [Hardware]<div align=center>
-![image](https://github.com/moonjayden/circle-hunt/assets/139466574/e7dd4199-df17-4497-b40f-f8dc10834bf7)
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/9ee46b1c-4b30-417f-acda-ed2af21ad6ea)
+
 <div align=left>
 
  
@@ -37,7 +40,8 @@ Controls Raspberry Pi w. SSH remote control
 Using the raspicam, take a video with the Raspberry Pi camera module and use the hough circle detection method on the opencv to determine the circle. 
 
 It targets the smoothness when the current frame and the entire frame are the same, and delivers the information of the determined circle.<div align=center>
-![image](https://github.com/moonjayden/circle-hunt/assets/139466574/79d56f3d-e759-4102-b713-722fb0f89f3d)
+![image](https://github.com/moonjayden/circlehunt-SIOR/assets/139466574/136366f7-2e64-414d-b6fe-d2e95ee16588)
+
 ![Raspberrypi2](https://github.com/moonjayden/circle-hunt/assets/139466574/bef41c04-663b-468b-b209-877e9cfdb09a)
 
 <div align=left>
